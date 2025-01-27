@@ -2,7 +2,7 @@
 
 We want you to be completely satisfied with your purchase. If you're not, we're here to help! Here are the details of our return policy.
 
-Effective Date: 2024-12-04
+Effective Date: 2025-01-27
 
 ## Eligibility for Returns
 
@@ -18,7 +18,7 @@ Effective Date: 2024-12-04
 
 1. **Contact Support**
 
-   Before returning an item, please contact our support team at [Insert Contact Info] to receive a Return Merchandise Authorization (RMA) number. Returns without an RMA will not be accepted.
+   Before returning an item, please contact our support team at support@elevatedsensors.com to receive a Return Merchandise Authorization (RMA) number. Returns without an RMA will not be accepted.
 1. **Prepare Your Return**
    
    Pack the product securely, including all original components and packaging. Clearly label the package with the provided RMA number.
