@@ -1,4 +1,4 @@
-# Disclaimer
+# Product Disclaimer
 
 Effective Date: 2025-01-27
 
