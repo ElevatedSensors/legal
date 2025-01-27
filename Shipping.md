@@ -1,4 +1,4 @@
-# Shipping Policy
+# Shipping
 
 Effective Date: 2024-12-04
 
