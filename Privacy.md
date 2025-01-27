@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy
 
 Elevated Sensors, LLC ("we," "our," or "us") values your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you interact with our website, products, and services.
 
