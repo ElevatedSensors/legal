@@ -1,4 +1,4 @@
-# Return Policy
+# Returns
 
 We want you to be completely satisfied with your purchase. If you're not, we're here to help! Here are the details of our return policy.
 
