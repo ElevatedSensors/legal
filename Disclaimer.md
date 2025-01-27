@@ -1,6 +1,6 @@
 # Disclaimer
 
-Effective Date: 2024-12-04
+Effective Date: 2025-01-27
 
 ## General Use and Liability
 The manufacturer and seller are not responsible for damages, injuries, or losses resulting from the use, misuse, or inability to use this product. By purchasing and using this product, the customer agrees to assume all responsibility for its application and outcomes.
@@ -8,7 +8,7 @@ The manufacturer and seller are not responsible for damages, injuries, or losses
 ## Intended Use
 This product is designed for use in DIY home automation projects and is compatible with the ESPHome platform. It is intended for hobbyists and individuals with a basic understanding of electronics and programming.
 
-This product is not certified for use in life-critical, safety-critical, or medical systems and should not be used in such applications. It is designed for indoor use only unless explicitly stated otherwise.
+This product is not certified for use in life-critical, safety-critical, or medical systems, including use in cribs or near infants. If you choose to use this product in such applications, you assume all responsibility and do so entirely at your own risk.
 
 Users are encouraged to customize and modify the device to suit their needs; however, modifications may void the warranty (see the Limited Warranty section for details).
 
