@@ -20,13 +20,7 @@ We offer affordable international shipping options to a selection of stable glob
 
 ## Import Duties, Taxes, and VAT
 
-Import duties, taxes, and VAT depend on the destination country and the contents and value of your shipment.
-
-**European Union (EU) Shipments:** All shipments to eligible EU destinations are sent Delivery Duty Paid (DDP). These shipping options are identified as **"EU DDP"** at checkout. Elevated Sensors pays the applicable import duties, taxes, and fees on your behalf. No additional import charges should be due upon delivery.
-
-**All Other International Shipments:** Shipments outside the EU are sent Delivery Duty Unpaid (DDU), with shipping options identified as **"Taxes/Duties Excluded"** at checkout. The recipient is responsible for any applicable import duties, taxes, VAT, and customs clearance fees charged by their local customs authority or carrier upon arrival.
-
-Warranty replacements may also incur customs fees.
+All international shipments are shipped "Delivery Duty Unpaid" (DDU). The recipient is responsible for paying any import duties, taxes, and VAT upon the shipment's arrival and customs clearance. We currently do not ship to EU countries where shipping services require prepaid duties and taxes (DDP). Warranty replacements may also incur customs fees.
 
 ## Extended Service Areas
 For locations classified as “Extended Service Areas” by the shipping carrier, shipping costs may be higher. If this applies to your order, we will contact you to discuss options and ensure that the additional cost is acceptable or suggest a more economical service.
